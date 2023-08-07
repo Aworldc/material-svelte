@@ -1,0 +1,9 @@
+{
+    "name": "putTheNameHere",
+    "version": "0.1.0",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "@material/web": "^1.0.0-pre.14"
+    }
+}
