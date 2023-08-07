@@ -1,5 +1,5 @@
 # Material svelte
-A svelte wrapper for [Material web](https://github.com/material-components/material-web) and [Material web additions](https://github.com/maicol07/material-web-additions) That provides better svelte intergration for these web components.
+A svelte wrapper for [Material web](https://github.com/material-components/material-web) and [Material web additions](https://github.com/maicol07/material-web-additions) that provides better svelte intergration for these web components.
 
 # Usage
 (Will change when I publish to npm)
