@@ -19,6 +19,11 @@ TODO: Expand this section
  - [ ] Sliders
  - [ ] Switch
  - [ ] Tabs
+ - [ ] Chip
+ - [ ] Dialog
+ - [ ] List
+ - [ ] Sliders
+ - [ ] Text field
 ### Additions components
  - [ ] Card
  - [ ] Datatable
