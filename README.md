@@ -37,3 +37,4 @@ TODO: Expand this section
  - [ ] Documentation
  - [ ] Npm publish
  - [ ] Theming support
+ - [ ] Typescript support
