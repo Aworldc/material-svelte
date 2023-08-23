@@ -14,10 +14,10 @@ TODO: Expand this section
  - [x] Checkbox
  - [x] Progress
  - [x] Fab
+ - [x] Switch
  - [ ] Icon button
  - [ ] Radio
  - [ ] Sliders
- - [ ] Switch
  - [ ] Tabs
  - [ ] Chip
  - [ ] Dialog
