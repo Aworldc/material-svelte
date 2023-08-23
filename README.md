@@ -36,5 +36,6 @@ TODO: Expand this section
 ### Other
  - [ ] Documentation
  - [ ] Npm publish
- - [ ] Theming support
+ - [ ] Web theming support
+ - [ ] Android theming support (see [#1](https://github.com/Aworldc/material-svelte/issues/1))
  - [ ] Typescript support
