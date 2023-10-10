@@ -1,5 +1,5 @@
 # Material svelte
-A svelte wrapper for [Material web](https://github.com/material-components/material-web) and [Material web additions](https://github.com/maicol07/material-web-additions) that provides better svelte intergration for these web components.
+A svelte wrapper for [Material web](https://github.com/material-components/material-web) and (eventually) [Material web additions](https://github.com/maicol07/material-web-additions) that provides better svelte intergration for these web components.
 
 # Usage
 (Will change when I publish to npm)
@@ -34,8 +34,8 @@ TODO: Expand this section
  - [ ] Codeblock
  - [ ] Typography stuff
 ### Other
+ - [x] Web theming support
  - [ ] Documentation
  - [ ] Npm publish
- - [ ] Web theming support
  - [ ] Android theming support (see [#1](https://github.com/Aworldc/material-svelte/issues/1))
  - [ ] Typescript support
