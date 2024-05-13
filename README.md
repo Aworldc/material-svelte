@@ -34,8 +34,8 @@ TODO: Expand this section
 ### Utility components
  - 🟢 App wrapper
  - 🟢 Row/Column
+ - 🟡 Typography stuff
  - 🔴 Codeblock
- - 🔴 Typography stuff
 ### Other
  - 🟢 Web theming support
  - 🟡 Typescript support
