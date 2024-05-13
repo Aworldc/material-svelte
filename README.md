@@ -23,6 +23,10 @@ TODO: Expand this section
  - 🔴 Tabs
  - 🔴 Dialog
  - 🔴 List
+ - 🔴 Menu
+ - 🔴 Radio
+ - 🔴 Select
+ - 
 ### Additions components
  - 🔴 Card
  - 🔴 Datatable
