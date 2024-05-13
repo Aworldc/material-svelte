@@ -10,34 +10,33 @@ TODO: Expand this section
 
 # Todo
 ### Official components
- - [x] Button
- - [x] Checkbox
- - [x] Progress
- - [x] Fab
- - [x] Switch
- - [ ] Icon button
- - [ ] Radio
- - [ ] Sliders
- - [ ] Tabs
- - [ ] Chip
- - [ ] Dialog
- - [ ] List
- - [ ] Sliders
- - [ ] Text field
+ - 🟢 Button
+ - 🟢 Checkbox
+ - 🟢 Progress
+ - 🟢 Fab
+ - 🟢 Switch
+ - 🟢 Input
+ - 🟢 Sliders
+ - 🟡 Chip
+ - 🔴 Icon button
+ - 🔴 Radio
+ - 🔴 Tabs
+ - 🔴 Dialog
+ - 🔴 List
 ### Additions components
- - [ ] Card
- - [ ] Datatable
- - [ ] Layout Grid
+ - 🔴 Card
+ - 🔴 Datatable
+ - 🔴 Layout Grid
 ### Utility components
- - [x] App wrapper
- - [x] Row/Column
- - [ ] Codeblock
- - [ ] Typography stuff
+ - 🟢 App wrapper
+ - 🟢 Row/Column
+ - 🔴 Codeblock
+ - 🔴 Typography stuff
 ### Other
- - [x] Web theming support
- - [ ] Documentation
- - [ ] Npm publish
- - [ ] Android theming support (see [#1](https://github.com/Aworldc/material-svelte/issues/1))
- - [ ] Typescript support
- - [ ] Fix accessability
- - [ ] Fix events
+ - 🟢 Web theming support
+ - 🟡 Typescript support
+ - 🔴 Documentation
+ - 🔴 Npm publish
+ - 🔴 Android theming support (see [#1](https://github.com/Aworldc/material-svelte/issues/1))
+ - 🔴 Fix accessability
+ - 🔴 Fix events
